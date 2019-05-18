@@ -1,0 +1,90 @@
+{
+  "types": [
+    {
+      "type_id": 11381,
+      "type_name": "Harpy",
+      "markets": [
+        {
+          "market_id": 1028573403123,
+          "market_name": "XY-951 - My Keepstar",
+          "error": "No orders found!"
+        },
+        {
+          "market_id": 1024004680456,
+          "market_name": "Hibi - Trading Hub 2",
+          "price_highest": 49999999,
+          "price_lowest": 38899780,
+          "volume_total": 120,
+          "volume_remain": 54,
+          "orders": [
+            {},
+            {},
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "type_id": 12015,
+      "type_name": "Muninn",
+      "markets": [
+        {
+          "market_id": 1028573403123,
+          "market_name": "XY-951 - My Keepstar",
+          "price_highest": 300000000,
+          "price_lowest": 239000000,
+          "volume_total": 11,
+          "volume_remain": 11,
+          "orders": [
+            {},
+            {}
+          ]
+        },
+        {
+          "market_id": 1024004680456,
+          "market_name": "Hibi - Trading Hub 2",
+          "price_highest": 300000000,
+          "price_lowest": 230000000,
+          "volume_total": 11,
+          "volume_remain": 8,
+          "orders": [
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "type_id": 12011,
+      "type_name": "Eagle",
+      "markets": [
+        {
+          "market_id": 1028573403999,
+          "market_name": "AC-753 - Another Keepstar",
+          "price_highest": 430000000,
+          "price_lowest": 240000000,
+          "volume_total": 11,
+          "volume_remain": 11,
+          "orders": [
+            {},
+            {}
+          ]
+        },
+        {
+          "market_id": 1024004680888,
+          "market_name": "Perimeter - Trading Hub 1",
+          "price_highest": 420000000,
+          "price_lowest": 235000000,
+          "volume_total": 153,
+          "volume_remain": 131,
+          "orders": [
+            {}
+          ]
+        }
+      ]
+    }
+  ]
+}
