@@ -1,9 +1,13 @@
-# market-cards
+# vue-market-cards
+
+![](https://i.imgur.com/0qH9vpp.jpg)
 
 ## Project setup
 ```
 npm install
 ```
+You also need to change the path where the market information should be sourced. At the moment it points to a dummy json.
+You will find the relevant line in the App.vue file in the `created` hook.
 
 ### Compiles and hot-reloads for development
 ```
@@ -24,6 +28,3 @@ npm run test
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
