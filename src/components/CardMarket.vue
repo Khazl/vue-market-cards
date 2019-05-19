@@ -8,8 +8,13 @@
                 <tr>
                     <td>Stock</td>
                     <td>
-                        {{ market.volume_remain | number }}
-                        <span v-if="market.orders">({{ market.orders.length}})</span>
+                        <span v-if="market.orders">
+                            {{ market.volume_remain | number }}
+                            ({{ market.orders.length}})
+                        </span>
+                        <span v-else>
+                            0
+                        </span>
                     </td>
                 </tr>
                 <tr>
